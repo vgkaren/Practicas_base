@@ -1,0 +1,9 @@
+Nombre: LUIS
+Apellido:CHAVEZ
+Edad40
+Telefono:585878
+Email:YO
+DireccionNOQUIER
+Descripcion:GENIAL
+Ciudad:MEXICO
+SexoMASCULO
